@@ -1,0 +1,20 @@
+.navbar {
+    padding: 40px;
+    justify-content: center;
+    background-color:salmon;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    margin-bottom: 75px;
+}
+
+.header-text {
+    color: white;
+}
+
+.card {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.card-header {
+    background-color: dodgerblue;
+    color: white;
+}
