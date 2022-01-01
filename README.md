@@ -42,7 +42,9 @@
 
   ## Tests
   To verify the code is running correctly, you can type 
+  
   * npm run test 
+  
   into the command line after installing jest. You should see that all 4 test suites have passed and all 10 tests have passed.
 
 
