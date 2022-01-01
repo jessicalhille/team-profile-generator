@@ -26,7 +26,7 @@
 
   ## Usage
   After cloning the original repository to your local computer, you must install jest and inquirer, as stated above. Then you will use the command line and type 'node index.js'. Follow all the prompts and enter the required fields. When you have completed and added all of the team into the application, the index.html will be created in the dist folder!
-  ### Screenshot of Deployed Application
+  ### Screenshot of the generated HTML file
   <img width="1123" alt="Screen Shot 2022-01-01 at 11 28 07 AM" src="https://user-images.githubusercontent.com/91511805/147856731-b8dc388d-956e-417c-b7d8-151ab4bc5e0d.png">
   
   ## Contributing
