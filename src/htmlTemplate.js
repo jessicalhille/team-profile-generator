@@ -5,7 +5,7 @@ const createManager = function(manager) {
         <div class="card">
             <div class="card-header">
                 <h3>${manager.name}</h3>
-                <h3><i class="fas fa-mug-hot"></i>Manager</h3>
+                <h4><i class="fas fa-mug-hot"></i> Manager</h4>
             </div>
 
             <div class="card-body">
@@ -25,13 +25,13 @@ const createEngineer = function(engineer) {
         <div class="card">
             <div class="card-header">
                 <h3>${engineer.name}</h3>
-                <h3><i class="fas fa-glasses"></i>Engineer</h3>
+                <h4><i class="fas fa-glasses"></i> Engineer</h4>
             </div>
 
             <div class="card-body">
                 <p class="id">ID: ${engineer.id}</p>
                 <p class="email">Email: <a href="mailto:${engineer.email}">${engineer.email}</a></p>
-                <p class="github">GitHub: <a href="https://github.com/${engineer.github}">${engineer.github}</a></p>
+                <p class="github">GitHub: <a href="https://github.com/${engineer.github}" target="_blank" rel="noopener noreferrer">${engineer.github}</a></p>
             </div>
         </div>
     </div>
@@ -45,7 +45,7 @@ const createIntern = function(intern) {
         <div class="card">
             <div class="card-header">
                 <h3>${intern.name}</h3>
-                <h3><i class="fas fa-user-graduate"></i>Intern</h3>
+                <h4><i class="fas fa-user-graduate"></i> Intern</h4>
             </div>
 
             <div class="card-body">
