@@ -10,6 +10,8 @@
 
   ## Description
   A Node.js command-line application that takes in information about employees in a software engineering team and generates an HTML webpage that displays summaries for each person based on user input.
+  
+  ### Link to Walkthrough Video: https://www.loom.com/share/923bfec7aa0543109a3a734e2d3b98b2
 
   ## Table of Contents
   * [Installation](#installation)
@@ -21,7 +23,6 @@
 
   ## Installation
   To use this application, please run these in your command line:
-  * npm init 
   * npm install jest
   * npm install inquirer
 
@@ -34,7 +35,9 @@
   There are no guidelines for contributing at this time.
 
   ## Tests
-  To verify the code is running correctly, you can type 'npm run test' into the command line after installing jest. You should see that all 4 test suites have passed and all 10 tests have passed.
+  To verify the code is running correctly, you can type 
+  * npm run test 
+  into the command line after installing jest. You should see that all 4 test suites have passed and all 10 tests have passed.
 
   ## License
   This project is licensed under the MIT license.
