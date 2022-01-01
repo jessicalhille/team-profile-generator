@@ -1,5 +1,7 @@
 # Team Profile Generator
-  ![made-with](https://img.shields.io/badge/Made%20with-CSS,JavaScript,Node.js-1f425f.svg)
+  ![made-with](https://img.shields.io/badge/Made%20with-CSS-1f425f.svg)
+  ![made-with](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)
+  ![made-with](https://img.shields.io/badge/Made%20with-Node.js-1f425f.svg)
   ![GitHub issues](https://img.shields.io/github/issues/jessicalhille/team-profile-generator)
   ![GitHub branches](https://badgen.net/github/branches/jessicalhille/team-profile-generator)
   ![GitHub contributors](https://img.shields.io/github/contributors/jessicalhille/team-profile-generator)
